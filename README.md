@@ -14,3 +14,8 @@ The AI was able to produce a very interesting, slightly creepy article. The leve
 ## Badr's feedback
 
 I found the article pretty interesting! The creation of such AI model also gives us an insight on what we humans post on the Internet, as they are based of our interactions online. This factor sure does make AI a great tool to observe and learn more about the human behavior.
+
+
+## Dev's Feedback
+
+Yeah i have heard a lot about GPT3 and love how far AI has come now and it has become intelligent to a point where automated writign an other AI model like the DALL-E AI art generating tool have become so good at what they do!

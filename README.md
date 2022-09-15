@@ -2,7 +2,7 @@
 OpenAi's Language Generator, GPT3
 </h3>
 
-link: https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
+Link: https://www.theguardian.com/commentisfree/2020/sep/08/robot-wrote-this-article-gpt-3
 
 <b> Review </b>
 
